@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "trixibelle-portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
